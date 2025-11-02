@@ -1,7 +1,3 @@
----
-title: "\U0001F4CA SQL Data Analytics Project"
-
----
 
 # 📊 SQL Data Analytics Project
 
